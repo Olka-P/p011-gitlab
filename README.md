@@ -1,4 +1,3 @@
-
 echo "# p001-gitlab" >> README.md
 git init
 git add README.md
